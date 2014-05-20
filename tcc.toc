@@ -39,43 +39,43 @@
 \contentsline {section}{\numberline {4.3}Como testar a usabilidade?}{29}{section.4.3}
 \contentsline {subsection}{\numberline {4.3.1}Escolhendo uma abordagem}{29}{subsection.4.3.1}
 \contentsline {subsection}{\numberline {4.3.2}Usu\IeC {\'a}rios}{29}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {4.3.3}Planejamento da Pesquisa}{29}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.3}Planejamento da Pesquisa}{30}{subsection.4.3.3}
 \contentsline {subsection}{\numberline {4.3.4}Recrutamento}{30}{subsection.4.3.4}
-\contentsline {subsection}{\numberline {4.3.5}Teste da Usabilidade vs.Teste de Aceita\IeC {\c c}\IeC {\~a}o do Usu\IeC {\'a}rio (UAT)}{30}{subsection.4.3.5}
-\contentsline {subsection}{\numberline {4.3.6}Guias de Discuss\IeC {\~a}o}{30}{subsection.4.3.6}
-\contentsline {subsection}{\numberline {4.3.7}Analisar Resultados do Teste}{30}{subsection.4.3.7}
-\contentsline {chapter}{\chapternumberline {5}Estudo Experimental}{31}{chapter.5}
-\contentsline {section}{\numberline {5.1}Estudo de Caso - Portal da Participa\IeC {\c c}\IeC {\~a}o Social}{31}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Identifica\IeC {\c c}\IeC {\~a}o}{31}{subsection.5.1.1}
-\contentsline {subsection}{\numberline {5.1.2}Caracteriza\IeC {\c c}\IeC {\~a}o}{31}{subsection.5.1.2}
-\contentsline {subsection}{\numberline {5.1.3}Introdu\IeC {\c c}\IeC {\~a}o}{31}{subsection.5.1.3}
-\contentsline {section}{\numberline {5.2}Defini\IeC {\c c}\IeC {\~a}o do Estudo Experimental}{31}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Objetivo Global}{31}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Objetivos de Medi\IeC {\c c}\IeC {\~a}o}{31}{subsection.5.2.2}
-\contentsline {subsection}{\numberline {5.2.3}Objetivo do Estudo}{32}{subsection.5.2.3}
-\contentsline {subsection}{\numberline {5.2.4}Quest\IeC {\~o}es}{32}{subsection.5.2.4}
-\contentsline {subsection}{\numberline {5.2.5}Quest\IeC {\~o}es que n\IeC {\~a}o podem ser respondidas pelo estudo experimental}{32}{subsection.5.2.5}
-\contentsline {section}{\numberline {5.3}Metodologia}{32}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}An\IeC {\'a}lise do Perfil dos Usu\IeC {\'a}rios}{32}{subsection.5.3.1}
-\contentsline {subsubsection}{\numberline {5.3.1.1}Dados Estat\IeC {\'\i }sticos (Google analytcs, outros) - Pesquisa quantitativa}{32}{subsubsection.5.3.1.1}
-\contentsline {subsubsection}{\numberline {5.3.1.2}Question\IeC {\'a}rio de identifica\IeC {\c c}\IeC {\~a}o de perfil dos possiveis usuarios.}{33}{subsubsection.5.3.1.2}
-\contentsline {subsubsection}{\numberline {5.3.1.3}Identifica\IeC {\c c}\IeC {\~a}o de Personas}{33}{subsubsection.5.3.1.3}
-\contentsline {subsection}{\numberline {5.3.2}Paradigma e T\IeC {\'e}cnica de Avalia\IeC {\c c}\IeC {\~a}o}{33}{subsection.5.3.2}
-\contentsline {subsubsection}{\numberline {5.3.2.1}Cen\IeC {\'a}rios para teste de Usabilidade}{34}{subsubsection.5.3.2.1}
-\contentsline {subsubsection}{\numberline {5.3.2.2}Quest\IeC {\~o}es sobre o uso das fun\IeC {\c c}\IeC {\~o}es do Portal da Participa\IeC {\c c}\IeC {\~a}o Social}{34}{subsubsection.5.3.2.2}
-\contentsline {subsubsection}{\numberline {5.3.2.3}Question\IeC {\'a}rio de Perfil do usu\IeC {\'a}rio}{34}{subsubsection.5.3.2.3}
-\contentsline {subsubsection}{\numberline {5.3.2.4}Question\IeC {\'a}rio PSSUQ}{34}{subsubsection.5.3.2.4}
-\contentsline {section}{\numberline {5.4}Planejamento}{34}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}Defini\IeC {\c c}\IeC {\~a}o de Hip\IeC {\'o}teses}{34}{subsection.5.4.1}
-\contentsline {subsection}{\numberline {5.4.2}Descri\IeC {\c c}\IeC {\~a}o da Instrumenta\IeC {\c c}\IeC {\~a}o}{35}{subsection.5.4.2}
-\contentsline {subsection}{\numberline {5.4.3}Sele\IeC {\c c}\IeC {\~a}o do Contexto}{35}{subsection.5.4.3}
-\contentsline {subsection}{\numberline {5.4.4}Sele\IeC {\c c}\IeC {\~a}o dos Indiv\IeC {\'\i }duos}{35}{subsection.5.4.4}
-\contentsline {subsection}{\numberline {5.4.5}Vari\IeC {\'a}veis}{35}{subsection.5.4.5}
-\contentsline {subsection}{\numberline {5.4.6}Recursos}{35}{subsection.5.4.6}
-\contentsline {subsection}{\numberline {5.4.7}Validade dos Resultados}{35}{subsection.5.4.7}
-\contentsline {section}{\numberline {5.5}Procedimentos para a execu\IeC {\c c}\IeC {\~a}o}{35}{section.5.5}
-\contentsline {section}{\numberline {5.6}Avalia\IeC {\c c}\IeC {\~a}o dos Resultados}{36}{section.5.6}
-\contentsline {subsection}{\numberline {5.6.1}Plano de Avalia\IeC {\c c}\IeC {\~a}o}{36}{subsection.5.6.1}
-\contentsline {chapter}{\chapternumberline {6}Considere\IeC {\c c}\IeC {\~o}es Finais}{37}{chapter.6}
+\contentsline {subsection}{\numberline {4.3.5}Teste da Usabilidade vs.Teste de Aceita\IeC {\c c}\IeC {\~a}o do Usu\IeC {\'a}rio (UAT)}{31}{subsection.4.3.5}
+\contentsline {subsection}{\numberline {4.3.6}Guias de Discuss\IeC {\~a}o}{31}{subsection.4.3.6}
+\contentsline {subsection}{\numberline {4.3.7}Analisar Resultados do Teste}{31}{subsection.4.3.7}
+\contentsline {chapter}{\chapternumberline {5}Estudo Experimental}{33}{chapter.5}
+\contentsline {section}{\numberline {5.1}Estudo de Caso - Portal da Participa\IeC {\c c}\IeC {\~a}o Social}{33}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Identifica\IeC {\c c}\IeC {\~a}o}{33}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Caracteriza\IeC {\c c}\IeC {\~a}o}{33}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Introdu\IeC {\c c}\IeC {\~a}o}{33}{subsection.5.1.3}
+\contentsline {section}{\numberline {5.2}Defini\IeC {\c c}\IeC {\~a}o do Estudo Experimental}{33}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Objetivo Global}{33}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Objetivos de Medi\IeC {\c c}\IeC {\~a}o}{33}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Objetivo do Estudo}{34}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}Quest\IeC {\~o}es}{34}{subsection.5.2.4}
+\contentsline {subsection}{\numberline {5.2.5}Quest\IeC {\~o}es que n\IeC {\~a}o podem ser respondidas pelo estudo experimental}{34}{subsection.5.2.5}
+\contentsline {section}{\numberline {5.3}Metodologia}{34}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}An\IeC {\'a}lise do Perfil dos Usu\IeC {\'a}rios}{34}{subsection.5.3.1}
+\contentsline {subsubsection}{\numberline {5.3.1.1}Dados Estat\IeC {\'\i }sticos (Google analytcs, outros) - Pesquisa quantitativa}{34}{subsubsection.5.3.1.1}
+\contentsline {subsubsection}{\numberline {5.3.1.2}Question\IeC {\'a}rio de identifica\IeC {\c c}\IeC {\~a}o de perfil dos possiveis usuarios.}{35}{subsubsection.5.3.1.2}
+\contentsline {subsubsection}{\numberline {5.3.1.3}Identifica\IeC {\c c}\IeC {\~a}o de Personas}{35}{subsubsection.5.3.1.3}
+\contentsline {subsection}{\numberline {5.3.2}Paradigma e T\IeC {\'e}cnica de Avalia\IeC {\c c}\IeC {\~a}o}{35}{subsection.5.3.2}
+\contentsline {subsubsection}{\numberline {5.3.2.1}Cen\IeC {\'a}rios para teste de Usabilidade}{36}{subsubsection.5.3.2.1}
+\contentsline {subsubsection}{\numberline {5.3.2.2}Quest\IeC {\~o}es sobre o uso das fun\IeC {\c c}\IeC {\~o}es do Portal da Participa\IeC {\c c}\IeC {\~a}o Social}{36}{subsubsection.5.3.2.2}
+\contentsline {subsubsection}{\numberline {5.3.2.3}Question\IeC {\'a}rio de Perfil do usu\IeC {\'a}rio}{36}{subsubsection.5.3.2.3}
+\contentsline {subsubsection}{\numberline {5.3.2.4}Question\IeC {\'a}rio PSSUQ}{36}{subsubsection.5.3.2.4}
+\contentsline {section}{\numberline {5.4}Planejamento}{36}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Defini\IeC {\c c}\IeC {\~a}o de Hip\IeC {\'o}teses}{36}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Descri\IeC {\c c}\IeC {\~a}o da Instrumenta\IeC {\c c}\IeC {\~a}o}{37}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}Sele\IeC {\c c}\IeC {\~a}o do Contexto}{37}{subsection.5.4.3}
+\contentsline {subsection}{\numberline {5.4.4}Sele\IeC {\c c}\IeC {\~a}o dos Indiv\IeC {\'\i }duos}{37}{subsection.5.4.4}
+\contentsline {subsection}{\numberline {5.4.5}Vari\IeC {\'a}veis}{37}{subsection.5.4.5}
+\contentsline {subsection}{\numberline {5.4.6}Recursos}{37}{subsection.5.4.6}
+\contentsline {subsection}{\numberline {5.4.7}Validade dos Resultados}{37}{subsection.5.4.7}
+\contentsline {section}{\numberline {5.5}Procedimentos para a execu\IeC {\c c}\IeC {\~a}o}{37}{section.5.5}
+\contentsline {section}{\numberline {5.6}Avalia\IeC {\c c}\IeC {\~a}o dos Resultados}{38}{section.5.6}
+\contentsline {subsection}{\numberline {5.6.1}Plano de Avalia\IeC {\c c}\IeC {\~a}o}{38}{subsection.5.6.1}
+\contentsline {chapter}{\chapternumberline {6}Considere\IeC {\c c}\IeC {\~o}es Finais}{39}{chapter.6}
 \vspace {\cftbeforepartskip }
-\contentsline {chapter}{Refer\^encias}{39}{section*.9}
+\contentsline {chapter}{Refer\^encias}{41}{section*.9}

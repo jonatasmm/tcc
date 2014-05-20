@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=latex 2014.3.11)  19 MAY 2014 17:15
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=latex 2014.3.11)  20 MAY 2014 14:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1514,44 +1514,43 @@ Overfull \hbox (34.4462pt too wide) in paragraph at lines 65--65
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [28]
-[29]
-Overfull \hbox (2.04535pt too wide) in paragraph at lines 143--144
-[]\T1/lmr/m/n/12 Você pode re-a-li-zar uma fil-tra-gem com os par-ti-ci-pan-tes
- po-ten-ci-ais an-tes de seleciona-
- []
-
-) (./capitulos/5-estudo_experimental.tex [30]
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 39.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 96.
 
 (/usr/share/texmf/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 39.
- [31
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 96.
+ [29]
+Overfull \hbox (2.04535pt too wide) in paragraph at lines 150--151
+[]\T1/lmr/m/n/12 Você pode re-a-li-zar uma fil-tra-gem com os par-ti-ci-pan-tes
+ po-ten-ci-ais an-tes de seleciona-
+ []
 
-]
+[30]) (./capitulos/5-estudo_experimental.tex [31] [32
+
+] [33]
 Overfull \hbox (533.9001pt too wide) in paragraph at lines 63--70
 [][] 
  []
 
-[32]
+[34]
 Overfull \hbox (515.67014pt too wide) in paragraph at lines 106--113
 [][] 
  []
 
-[33]
+[35]
 Underfull \vbox (badness 7522) has occurred while \output is active []
 
- [34]
-[35]) (./capitulos/6-consideracoes.tex [36]) (./editaveis/apendices.tex)
+ [36]
+[37]) (./capitulos/6-consideracoes.tex [38]) (./editaveis/apendices.tex)
 (./tcc.bbl (./tcc.brf)
 \tf@brf=\write5
 \openout5 = `tcc.brf'.
 
- [37
+ [39
 
-] [38
+] [40
 
 ]
 bibitemlist
@@ -1562,7 +1561,7 @@ LaTeX Warning: Empty `thebibliography' environment on input line 8.
 No file tcc.ind.
 
 AED: lastpage setting LastPage
-[39]
+[41]
 \tf@lof=\write6
 \openout6 = `tcc.lof'.
 
@@ -1593,4 +1592,4 @@ Here is how much of TeX's memory you used:
  16 hyphenation exceptions out of 8191
  45i,13n,50p,1584b,501s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on tcc.dvi (41 pages, 131612 bytes).
+Output written on tcc.dvi (43 pages, 133824 bytes).
